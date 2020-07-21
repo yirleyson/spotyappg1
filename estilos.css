@@ -1,0 +1,19 @@
+body{
+background-color: purple;
+
+}
+footer{
+background-color: black;
+font-family: 'Franklin Gothic Medium';
+color: white;
+text-align: center;
+position: relative;
+height: 100px;
+}
+
+.foto{
+    height:450px ;
+    width: 1250px;
+
+}
+
